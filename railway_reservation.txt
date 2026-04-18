@@ -1,0 +1,37 @@
+Train,12002,Delhi-Mumbai,15:30,600,600,Delhi Central
+Train,12016,Delhi-Kolkata,16:45,650,650,Delhi Central
+Train,12030,Delhi-Bangalore,22:00,620,620,Delhi Central
+Train,12008,Mumbai-Delhi,17:00,600,600,Mumbai Central
+Train,12301,Mumbai-Bangalore,18:30,550,550,Mumbai Central
+Train,12041,New Delhi-Bangalore,20:15,630,630,New Delhi
+Train,12004,Delhi-Jaipur,06:00,500,500,Delhi
+Train,12015,Delhi-Chandigarh,07:30,480,480,Delhi
+Train,12011,Mumbai-Pune,07:15,520,520,Mumbai
+Train,12010,Chennai-Bangalore,06:00,540,540,Chennai
+Train,14015,Delhi-Varanasi,19:45,700,700,Delhi
+Train,14018,Mumbai-Hyderabad,19:00,640,640,Mumbai
+Train,14022,Kolkata-Delhi,18:30,680,680,Kolkata
+Train,14031,Bangalore-Chennai,22:00,620,620,Bangalore
+Train,14035,Delhi-Agra,06:45,480,480,Delhi
+Train,14045,Mumbai-Goa,17:30,450,450,Mumbai
+Train,14055,Chennai-Hyderabad,21:15,600,600,Chennai
+Train,14062,Kolkata-Guwahati,20:00,710,710,Kolkata
+Train,15001,Delhi-Noida,06:15,800,800,Delhi New Delhi
+Train,15002,Delhi-Ghaziabad,06:30,820,820,Delhi
+Train,15010,Mumbai-Thane,07:00,900,900,Mumbai Central
+Train,15015,Mumbai-Pune Local,08:00,750,750,Mumbai
+Train,15020,Bangalore-Mysore,06:30,600,600,Bangalore
+Train,15030,Chennai-Mylapore,07:15,700,700,Chennai
+Train,15040,Kolkata-Howrah,06:00,850,850,Kolkata
+Train,15050,Hyderabad-Secunderabad,07:30,750,750,Hyderabad
+Train,12951,Mumbai Rajdhani,16:00,400,400,Mumbai Central
+Train,12957,Delhi Rajdhani,15:00,420,420,Delhi
+Train,12807,Falaknuma Express,12:00,350,350,Hyderabad
+Train,12621,Tamil Nadu Express,10:30,380,380,Chennai
+Train,12222,West Bengal Samanta Kranti,14:45,390,390,Kolkata
+Train,13001,Taj Express (Delhi-Agra Circuit),08:00,500,500,Delhi
+Train,13005,Gateway of India Express,09:00,480,480,Mumbai
+Train,13010,Deccan Queen Express,07:10,520,520,Pune
+Train,13015,Shivshahi Express,06:30,550,550,Mumbai
+Train,13020,Netravati Express,16:30,480,476,Thiruvananthapuram
+Passenger,5000,3,13020,4,400.00
